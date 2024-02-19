@@ -20,7 +20,9 @@ This repository contains my solutions to the challenges provided by the Neuroinf
 
 ## How to Run
 Ensure that you have the required dependencies installed for each challenge. Instructions for installation can be found in the respective solution files.
-
+```
+pip install -r requirements.txt
+```
 ## Notes
 - Please review the solution files for any additional notes or considerations.
 - Make sure to provide feedback or reach out if any issues arise during the review process.
