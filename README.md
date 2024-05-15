@@ -11,6 +11,14 @@ This repository contains my solutions to the challenges provided by the Neuroinf
 - **Solution Files:**
   - `example.py`
   - `README.md`
+ 
+***
+
+### Challenge 4: Texture Classification
+- **Code Word: [Python]**
+- **Solution Files:**
+  - `texture_classification.py`
+  - `README.md`
     
 ***
 
@@ -20,13 +28,7 @@ This repository contains my solutions to the challenges provided by the Neuroinf
   - `LFPy-example-10.py`
   - `README.md`
     
-***
 
-### Challenge 7: Visualization of Membrane Potential Distribution in R
-- **Code Word: [R]**
-- **Solution Files:**
-  - `membrane_potential_visualization.R`
-  - `README.md`
  
 
 # How to Run
